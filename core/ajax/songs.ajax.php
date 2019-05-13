@@ -37,7 +37,7 @@ try {
     }
     utils::a2o($song, $song_ajax);
     $song->save();
-    ajax::success($song);
+    ajax::success(utils::o2a($song));
   }
   
   if (init('action') == 'get') {

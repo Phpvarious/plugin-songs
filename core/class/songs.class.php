@@ -95,6 +95,7 @@ class songs_song{
     if($this->getLogicalId() == ''){
       $this->setLogicalId($this->getName());
     }
+    $this->setLogicalId(strtolower($this->getLogicalId()));
   }
   
   public function save() {

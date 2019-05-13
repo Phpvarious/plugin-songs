@@ -131,6 +131,31 @@ $('.songAction[data-action=remove]').on('click', function () {
   });
 });
 
+$('.songAction[data-action=save]').on('click', function () {
+  jeedom.songs.save({
+    song : $('.song').getValues('.songAttr')[0],
+    error: function (error) {
+      $('#div_alert').showAlert({message: error.message, level: 'danger'});
+    },
+    success: function (data) {
+      modifyWithoutSave = false;
+      var vars = getUrlVars();
+      var url = 'index.php?';
+      for (var i in vars) {
+        if (i != 'id' && i != 'saveSuccessFull' && i != 'removeSuccessFull') {
+          url += i + '=' + vars[i].replace('#', '') + '&';
+        }
+      }
+      url += 'id=' + data.id + '&saveSuccessFull=1';
+      if (document.location.toString().match('#')) {
+        url += '#' + document.location.toString().split('#')[1];
+      }
+      loadPage(url);
+      modifyWithoutSave = false;
+    }
+  });
+});
+
 if (is_numeric(getUrlVars('id'))) {
   if ($('.eqLogicThumbnailContainer .songDisplayCard[data-song_id=' + getUrlVars('id') + ']').length != 0) {
     $('.eqLogicThumbnailContainer .songDisplayCard[data-song_id=' + getUrlVars('id') + ']').click();
