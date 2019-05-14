@@ -29,6 +29,7 @@ try {
   if (init('action') == 'save') {
     unautorizedInDemo();
     $song_ajax = json_decode(init('song'), true);
+    $song = null;
     if(isset($song_ajax['id'])){
       $song = songs_song::byId($song_ajax['id']);
     }
