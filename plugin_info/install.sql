@@ -5,5 +5,7 @@ CREATE TABLE IF NOT EXISTS `songs_song` (
   `path` varchar(511),
   `options` TEXT NULL,
   PRIMARY KEY (`id`),
+  UNIQUE(`logicalId`),
+  UNIQUE(`name`),
   INDEX `logicalId` (`logicalId` ASC)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;

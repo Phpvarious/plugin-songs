@@ -15,6 +15,25 @@
 * along with Jeedom. If not, see <http://www.gnu.org/licenses/>.
 */
 
+$('#in_searchSong').off('keyup').keyup(function () {
+  var search = $(this).value().toLowerCase();
+  search = search.normalize('NFD').replace(/[\u0300-\u036f]/g, "")
+  if(search == ''){
+    $('.songDisplayCard').show();
+    $('.eqLogicThumbnailContainer').packery();
+    return;
+  }
+  $('.songDisplayCard').hide();
+  $('.songDisplayCard .name').each(function(){
+    var text = $(this).text().toLowerCase();
+    text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, "")
+    if(text.indexOf(search) >= 0){
+      $(this).closest('.songDisplayCard').show();
+    }
+  });
+  $('.eqLogicThumbnailContainer').packery();
+});
+
 $('.songAction[data-action=add]').off('click').on('click',function(){
   bootbox.prompt("{{Nom du sons ?}}", function (result) {
     if (result !== null) {
