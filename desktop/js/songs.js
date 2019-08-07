@@ -90,6 +90,8 @@ $(".songDisplayCard").on('click', function () {
     $('.songThumbnailDisplay').hide();
   }
   $('.song').show();
+  $('a[href="#songtab"]').closest('ul').find('li').removeClass('active');
+  $('a[href="#songtab"]').closest('li').addClass('active');
   var _id = $(this).attr('data-song_id');
   try {
     $('#bt_uploadSong').fileupload('destroy');
