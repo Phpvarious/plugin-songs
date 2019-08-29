@@ -1,10 +1,10 @@
 {
 	"id" : "songs",
-	"name" : "Songs",
+	"name" : "Sons",
 	"description" : "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS",
 	"licence" : "AGPL",
 	"author" : "Jeedom SAS",
-	"require" : "4.0",
+	"require" : "3.3.30",
 	"category" : "multimedia",
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,

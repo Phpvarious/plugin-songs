@@ -116,6 +116,7 @@ class songs_song{
   }
   
   public function setId($_id) {
+    $_id = cleanComponanteName($_id);
     $this->_changed = utils::attrChanged($this->_changed,$this->id,$_id);
     $this->id = $_id;
   }
