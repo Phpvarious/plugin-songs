@@ -6,6 +6,5 @@ CREATE TABLE IF NOT EXISTS `songs_song` (
   `options` TEXT NULL,
   PRIMARY KEY (`id`),
   UNIQUE(`logicalId`),
-  UNIQUE(`name`),
-  INDEX `logicalId` (`logicalId` ASC)
+  UNIQUE(`name`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
