@@ -116,7 +116,6 @@ class songs_song{
   }
   
   public function setId($_id) {
-    $_id = cleanComponanteName($_id);
     $this->_changed = utils::attrChanged($this->_changed,$this->id,$_id);
     $this->id = $_id;
   }
@@ -126,6 +125,7 @@ class songs_song{
   }
   
   public function setName($_name) {
+    $_name = cleanComponanteName($_name);
     $this->_changed = utils::attrChanged($this->_changed,$this->name,$_name);
     $this->name = $_name;
   }
@@ -135,6 +135,7 @@ class songs_song{
   }
   
   public function setLogicalId($_logicalId) {
+    $_logicalId = cleanComponanteName($_logicalId);
     $this->_changed = utils::attrChanged($this->_changed,$this->logicalId,$_logicalId);
     $this->logicalId = $_logicalId;
   }

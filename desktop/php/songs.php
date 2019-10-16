@@ -80,5 +80,4 @@ sendVarToJS('eqType', $plugin->getId());
 </div>
 
 <?php include_file('core', 'songs', 'class.js', 'songs');?>
-<?php include_file('core', 'plugin.template', 'js');?>
 <?php include_file('desktop', 'songs', 'js', 'songs');?>
