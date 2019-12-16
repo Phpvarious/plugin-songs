@@ -92,6 +92,9 @@ class songs_song{
     if($this->getName() == ''){
       throw new \Exception(__('Le nom ne peut etre vide',__FILE__));
     }
+    if(is_numeric($this->getName())){
+      throw new \Exception(__('Le nom ne peut etre un nombre',__FILE__));
+    }
     if($this->getLogicalId() == ''){
       $this->setLogicalId($this->getName());
     }
