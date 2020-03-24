@@ -16,4 +16,4 @@ Il vous suffit dans Plugins -> Multimedia -> Sons de cliquer sur ajouter puis :
 
 # Utilisation
 
-Une fois votre son ajouté, vous pouvez mettre dans le message TTS #id# (id étant l’identifiant du son créer plus haut)
+Une fois votre son ajouté, vous pouvez mettre dans le message TTS #id# (id étant l’identifiant du son créé plus haut)
