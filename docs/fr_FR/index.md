@@ -4,7 +4,7 @@ Ce plugin permet d'intercepter certaine demandes de TTS (passant par le TTS jeed
 
 # Configuration
 
-Ce plugin ne necessite aucune configuration particuliere
+Ce plugin ne necessite aucune configuration particulière.
 
 # Ajout de son
 
