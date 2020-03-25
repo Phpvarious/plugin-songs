@@ -1,7 +1,7 @@
-# 16/12/2019
+# 16.12.2019
 
-- Interdiction de mettre un nombre en nom de son
+- Verbot, eine Nummer in den Soundnamen einzutragen
 
-# 16/10/2019
+# 16.10.2019
 
 - Fehlerbehebungen

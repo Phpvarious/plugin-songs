@@ -1,0 +1,25 @@
+{
+    "changelog.md": {
+        "16\/12\/2019": "12\/16\/2019",
+        "Interdiction de mettre un nombre en nom de son": "Prohibition to put a number in sound name",
+        "16\/10\/2019": "10\/16\/2019",
+        "Correction de bugs": "Bugfix"
+    },
+    "index.md": {
+        "Description": "Description",
+        "Ce plugin permet d'intercepter certaine demandes de TTS (passant par le TTS jeedom et uniquement celui-ci) et de le remplacer par le son de votre choix": "This plugin makes it possible to intercept certain TTS requests (passing through the Tedom jeedom and only this one) and to replace it with the sound of your choice",
+        "Configuration": "Setup",
+        "Ce plugin ne necessite aucune configuration particulière": "This plugin does not require any particular configuration",
+        "Ajout de son": "Adding sound",
+        "Il vous suffit dans Plugins -> Multimedia -> Sons de cliquer sur ajouter puis": "Just in Plugins -> Multimedia -> Sounds click on add then",
+        "Nom du son": "Sound name",
+        "nom du son pour le retrouver facilement": "sound name for easy retrieval",
+        "ID": "Id",
+        "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre": "sound identifier, it is advisable to put only letters or numbers here",
+        "C'est cet identifiant qu'il faudra utiliser dans la demande TTS": "This identifier should be used in the TTS request",
+        "Sons": "Sounds",
+        "votre son à jouer (le fichier doit etre en mp3, 50mo max)": "your sound to play (the file must be in mp3, 50mo max)",
+        "Utilisation": "Use",
+        "Une fois votre son ajouter pour l'utiliser il faut dans le message TTS mettre #id# (id étant l'identifiant du son créer plus haut)": "Once your sound is added to use it you must in the TTS message put # id # (id being the identifier of the sound created above)"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "changelog.md": {
+        "16\/12\/2019": "16.12.2019",
+        "Interdiction de mettre un nombre en nom de son": "Verbot, eine Nummer in den Soundnamen einzutragen",
+        "16\/10\/2019": "16.10.2019",
+        "Correction de bugs": "Fehlerbehebungen"
+    },
+    "index.md": {
+        "Description": "Beschreibung",
+        "Ce plugin permet d'intercepter certaine demandes de TTS (passant par le TTS jeedom et uniquement celui-ci) et de le remplacer par le son de votre choix": "Dieses Plugin ermöglicht es, bestimmte TTS-Anfragen (die durch das Tedom Jeedom und nur dieses gehen) abzufangen und durch den Sound Ihrer Wahl zu ersetzen",
+        "Configuration": "Konfiguration",
+        "Ce plugin ne necessite aucune configuration particulière": "Dieses Plugin erfordert keine bestimmte Konfiguration",
+        "Ajout de son": "Sound hinzufügen",
+        "Il vous suffit dans Plugins -> Multimedia -> Sons de cliquer sur ajouter puis": "Klicken Sie einfach unter Plugins -> Multimedia -> Sounds auf Hinzufügen",
+        "Nom du son": "Soundname",
+        "nom du son pour le retrouver facilement": "Soundname zum einfachen Abrufen",
+        "ID": "Identifikation",
+        "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre": "Tonkennung, es ist ratsam, hier nur Buchstaben oder Zahlen zu setzen",
+        "C'est cet identifiant qu'il faudra utiliser dans la demande TTS": "Diese Kennung sollte in der TTS-Anforderung verwendet werden",
+        "Sons": "Klingt",
+        "votre son à jouer (le fichier doit etre en mp3, 50mo max)": "Ihr Sound zum Abspielen (die Datei muss in MP3 sein, max. 50 Monate)",
+        "Utilisation": "Verwendung",
+        "Une fois votre son ajouter pour l'utiliser il faut dans le message TTS mettre #id# (id étant l'identifiant du son créer plus haut)": "Sobald Ihr Sound hinzugefügt wurde, um ihn zu verwenden, müssen Sie in die TTS-Nachricht # id # eingeben (id ist die Kennung des oben erstellten Sounds)."
+    }
+}

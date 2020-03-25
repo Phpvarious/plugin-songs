@@ -1,7 +1,7 @@
 # 16/12/2019
 
-- Interdiction de mettre un nombre en nom de son
+- Prohibición de poner un número en el nombre del sonido.
 
 # 16/10/2019
 
-- Corrección de errores
+- Correcciones de errores

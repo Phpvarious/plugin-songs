@@ -1,0 +1,36 @@
+{
+    "plugins\/songs\/desktop\/php\/songs.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Gestion": "Verwaltung",
+        "Ajouter": "Hinzufügen",
+        "Configuration": "Konfiguration",
+        "Mes sons": "Meine Geräusche",
+        "Rechercher": "Suchen nach",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Son": "Sein",
+        "Nom du son": "Soundname",
+        "ID": "Identifikation",
+        "Sons": "Klingt",
+        "Envoyer": "Senden"
+    },
+    "plugins\/songs\/desktop\/js\/songs.js": {
+        "Nom du sons ?": "Name der Geräusche?",
+        "Envoyer": "Senden",
+        "Son ajoutée": "Es ist hinzugefügt",
+        "Etês vous sur de vouloir supprimer ce son ?": "Möchten Sie diesen Sound wirklich löschen?"
+    },
+    "plugins\/songs\/core\/ajax\/songs.ajax.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Son inconnu : ": "Sein Unbekannter:",
+        "Son inconnu. Vérifiez l\\'ID": "Es ist unbekannt. Überprüfen Sie die ID",
+        "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "Keine Dateien gefunden. Überprüfen Sie die PHP-Einstellung (Postgrößenbeschränkung)",
+        "Le fichier est trop gros (maximum 50Mo)": "Die Datei ist zu groß (maximal 50 MB)",
+        "Impossible de sauvegarder le son": "Ton kann nicht gespeichert werden",
+        "Aucune méthode correspondante à : ": "Keine Methode entsprechend:"
+    },
+    "plugins\/songs\/core\/class\/songs.class.php": {
+        "Le nom ne peut etre vide": "Der Name darf nicht leer sein",
+        "Le nom ne peut etre un nombre": "Name kann keine Nummer sein"
+    }
+}
