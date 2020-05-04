@@ -1,8 +1,8 @@
-# Descripción
+# Description
 
 Este complemento permite interceptar ciertas solicitudes de TTS (pasando por el Tedom Jeedom y solo este) y reemplazarlo con el sonido de su elección.
 
-# Configuración
+# Configuration
 
 Este complemento no requiere ninguna configuración particular.
 
@@ -14,6 +14,6 @@ Solo en Complementos -> Multimedia -> Sonidos, haga clic en Agregar y luego :
 - Identificación : identificador de sonido, es recomendable poner solo letras o números aquí. Este identificador debe usarse en la solicitud TTS
 - Suena : su sonido para reproducir (el archivo debe estar en mp3, 50mo max)
 
-# Uso
+# Utilisation
 
 Una vez que se agrega su sonido para usarlo, debe poner en el mensaje TTS # id # (id es el identificador del sonido creado anteriormente)
