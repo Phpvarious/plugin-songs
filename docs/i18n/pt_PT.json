@@ -1,6 +1,6 @@
 {
     "changelog.md": {
-        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Como lembrete, se não houver informações sobre a atualização, isso significa que se trata apenas da atualização da documentação, tradução ou texto.",
+        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Como lembrete, se não houver informações sobre a atualização, isso significa que se trata apenas da atualização da documentação, tradução ou texto",
         "16\/12\/2019": "16\/12\/2019",
         "Interdiction de mettre un nombre en nom de son": "Proibição de colocar um número no nome do som",
         "16\/10\/2019": "16\/10\/2019",
@@ -9,7 +9,9 @@
         " IMPORTANT?": " IMPORTANTE?",
         "IMPORTANT ": "IMPORTANTE ",
         "[IMPORTANT": "[IMPORTANTE",
-        "IMPORTANT]": "IMPORTANTE]"
+        "IMPORTANT]": "IMPORTANTE]",
+        "*IMPORTANT": "*IMPORTANTE",
+        "IMPORTANT*": "IMPORTANTE*"
     },
     "index.md": {
         "Plugin Sons": "Sound Plugin",
@@ -29,20 +31,28 @@
         "Configuration ": "Configuração ",
         "[Configuration": "[Configuração",
         "Configuration]": "Configuração]",
+        "*Configuration": "*Configuração",
+        "Configuration*": "Configuração*",
         " ID.": " ID.",
         " ID?": " ID?",
         "ID ": "ID ",
         "[ID": "[ID",
         "ID]": "ID]",
+        "*ID": "*ID",
+        "ID*": "ID*",
         " Sons.": " Sons.",
         " Sons?": " Sons?",
         "Sons ": "Sons ",
         "[Sons": "[Sons",
         "Sons]": "Sons]",
+        "*Sons": "*Sons",
+        "Sons*": "Sons*",
         " Utilisation.": " Uso.",
         " Utilisation?": " Uso?",
         "Utilisation ": "Uso ",
         "[Utilisation": "[Uso",
-        "Utilisation]": "Uso]"
+        "Utilisation]": "Uso]",
+        "*Utilisation": "*Uso",
+        "Utilisation*": "Uso*"
     }
 }

@@ -1,6 +1,6 @@
 {
     "changelog.md": {
-        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "As a reminder if there is no information on the update, it means that it only concerns the updating of documentation, translation or text.",
+        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "As a reminder if there is no information on the update, it means that it only concerns the updating of documentation, translation or text",
         "16\/12\/2019": "12\/16\/2019",
         "Interdiction de mettre un nombre en nom de son": "Prohibition to put a number in sound name",
         "16\/10\/2019": "10\/16\/2019",
@@ -9,7 +9,9 @@
         " IMPORTANT?": " Important?",
         "IMPORTANT ": "Important ",
         "[IMPORTANT": "[Important",
-        "IMPORTANT]": "Important]"
+        "IMPORTANT]": "Important]",
+        "*IMPORTANT": "*Important",
+        "IMPORTANT*": "Important*"
     },
     "index.md": {
         "Plugin Sons": "Sound Plugin",
@@ -29,20 +31,28 @@
         "Configuration ": "Setup ",
         "[Configuration": "[Setup",
         "Configuration]": "Setup]",
+        "*Configuration": "*Setup",
+        "Configuration*": "Setup*",
         " ID.": " Id.",
         " ID?": " Id?",
         "ID ": "Id ",
         "[ID": "[Id",
         "ID]": "Id]",
+        "*ID": "*Id",
+        "ID*": "Id*",
         " Sons.": " Sounds.",
         " Sons?": " Sounds?",
         "Sons ": "Sounds ",
         "[Sons": "[Sounds",
         "Sons]": "Sounds]",
+        "*Sons": "*Sounds",
+        "Sons*": "Sounds*",
         " Utilisation.": " Use.",
         " Utilisation?": " Use?",
         "Utilisation ": "Use ",
         "[Utilisation": "[Use",
-        "Utilisation]": "Use]"
+        "Utilisation]": "Use]",
+        "*Utilisation": "*Use",
+        "Utilisation*": "Use*"
     }
 }

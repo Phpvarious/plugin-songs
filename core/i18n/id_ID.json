@@ -27,7 +27,7 @@
         "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "",
         "Le fichier est trop gros (maximum 50Mo)": "",
         "Impossible de sauvegarder le son": "",
-        "Aucune méthode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune méthode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
         "Le nom ne peut etre vide": "",

@@ -1,6 +1,6 @@
 {
     "changelog.md": {
-        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Zur Erinnerung: Wenn keine Informationen zum Update vorhanden sind, bedeutet dies, dass es sich nur um die Aktualisierung von Dokumentation, Übersetzung oder Text handelt.",
+        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Zur Erinnerung: Wenn keine Informationen zum Update vorhanden sind, bedeutet dies, dass es sich nur um die Aktualisierung von Dokumentation, Übersetzung oder Text handelt",
         "16\/12\/2019": "16.12.2019",
         "Interdiction de mettre un nombre en nom de son": "Verbot, eine Nummer in den Soundnamen einzutragen",
         "16\/10\/2019": "16.10.2019",
@@ -9,7 +9,9 @@
         " IMPORTANT?": " Wichtig?",
         "IMPORTANT ": "Wichtig ",
         "[IMPORTANT": "[Wichtig",
-        "IMPORTANT]": "Wichtig]"
+        "IMPORTANT]": "Wichtig]",
+        "*IMPORTANT": "*Wichtig",
+        "IMPORTANT*": "Wichtig*"
     },
     "index.md": {
         "Plugin Sons": "Sound Plugin",
@@ -29,20 +31,28 @@
         "Configuration ": "Konfiguration ",
         "[Configuration": "[Konfiguration",
         "Configuration]": "Konfiguration]",
+        "*Configuration": "*Konfiguration",
+        "Configuration*": "Konfiguration*",
         " ID.": " Identifikation.",
         " ID?": " Identifikation?",
         "ID ": "Identifikation ",
         "[ID": "[Identifikation",
         "ID]": "Identifikation]",
+        "*ID": "*Identifikation",
+        "ID*": "Identifikation*",
         " Sons.": " Klingt.",
         " Sons?": " Klingt?",
         "Sons ": "Klingt ",
         "[Sons": "[Klingt",
         "Sons]": "Klingt]",
+        "*Sons": "*Klingt",
+        "Sons*": "Klingt*",
         " Utilisation.": " Verwendung.",
         " Utilisation?": " Verwendung?",
         "Utilisation ": "Verwendung ",
         "[Utilisation": "[Verwendung",
-        "Utilisation]": "Verwendung]"
+        "Utilisation]": "Verwendung]",
+        "*Utilisation": "*Verwendung",
+        "Utilisation*": "Verwendung*"
     }
 }

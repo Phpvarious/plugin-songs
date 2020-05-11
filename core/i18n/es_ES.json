@@ -26,7 +26,7 @@
         "Son inconnu. Vérifiez l\\'ID": "Es desconocido Verifica la identificación",
         "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "No se encontraron archivos. Verifique la configuración de PHP (límite de tamaño de publicación)",
         "Le fichier est trop gros (maximum 50Mo)": "El archivo es demasiado grande (máximo 50 MB)",
-        "Impossible de sauvegarder le son": "No se puede guardar el sonido.",
+        "Impossible de sauvegarder le son": "No se puede guardar el sonido",
         "Aucune méthode correspondante à : ": "Ningún método correspondiente a:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
