@@ -1,4 +1,4 @@
-# Description
+# Sound Plugin
 
 Dieses Plugin ermöglicht es, bestimmte TTS-Anfragen (die durch das Tedom Jeedom und nur dieses gehen) abzufangen und durch den Sound Ihrer Wahl zu ersetzen.
 
@@ -16,4 +16,4 @@ Klicken Sie einfach unter Plugins -> Multimedia -> Sounds auf Hinzufügen :
 
 # Utilisation
 
-Sobald Ihr Sound hinzugefügt wurde, um ihn zu verwenden, müssen Sie in die TTS-Nachricht # id # eingeben (id ist die Kennung des oben erstellten Sounds).
+Sobald Ihr Sound hinzugefügt wurde, um ihn zu verwenden, müssen Sie die TTS-Nachricht eingeben #id# (id ist die Kennung des oben erstellten Sounds)

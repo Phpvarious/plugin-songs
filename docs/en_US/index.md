@@ -1,4 +1,4 @@
-# Description
+# Sound Plugin
 
 This plugin makes it possible to intercept certain TTS requests (passing through the Tedom jeedom and only this one) and to replace it with the sound of your choice.
 
@@ -16,4 +16,4 @@ Just in Plugins -> Multimedia -> Sounds click on add then :
 
 # Utilisation
 
-Once your sound is added to use it you must in the TTS message put # id # (id being the identifier of the sound created above)
+Once your sound is added to use it, you must put in the TTS message #id# (id being the identifier of the sound created above)

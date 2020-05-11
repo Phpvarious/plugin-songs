@@ -1,4 +1,4 @@
-# Description
+# Plugin de sonido
 
 Este complemento permite interceptar ciertas solicitudes de TTS (pasando por el Tedom Jeedom y solo este) y reemplazarlo con el sonido de su elección.
 
@@ -16,4 +16,4 @@ Solo en Complementos -> Multimedia -> Sonidos, haga clic en Agregar y luego :
 
 # Utilisation
 
-Una vez que se agrega su sonido para usarlo, debe poner en el mensaje TTS # id # (id es el identificador del sonido creado anteriormente)
+Una vez que se agrega su sonido para usarlo, debe poner el mensaje TTS #id# (id es el identificador del sonido creado anteriormente)
