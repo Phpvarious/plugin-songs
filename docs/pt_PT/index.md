@@ -16,4 +16,4 @@ Apenas em Plugins -> Multimídia -> Sons clique em adicionar e :
 
 # Utilisation
 
-Depois que seu som for adicionado para usá-lo, você deverá inserir a mensagem TTS #id# (id é o identificador do som criado acima)
+Depois que seu som é adicionado, você pode colocar a mensagem TTS #id# (id é o identificador do som criado acima)

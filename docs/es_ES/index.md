@@ -16,4 +16,4 @@ Solo en Complementos -> Multimedia -> Sonidos, haga clic en Agregar y luego :
 
 # Utilisation
 
-Una vez que se agrega su sonido para usarlo, debe poner el mensaje TTS #id# (id es el identificador del sonido creado anteriormente)
+Una vez que se agrega su sonido, puede poner el mensaje TTS #id# (id es el identificador del sonido creado anteriormente)

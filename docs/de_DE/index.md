@@ -16,4 +16,4 @@ Klicken Sie einfach unter Plugins -> Multimedia -> Sounds auf Hinzufügen :
 
 # Utilisation
 
-Sobald Ihr Sound hinzugefügt wurde, um ihn zu verwenden, müssen Sie die TTS-Nachricht eingeben #id# (id ist die Kennung des oben erstellten Sounds)
+Sobald Ihr Sound hinzugefügt wurde, können Sie die TTS-Nachricht eingeben #id# (id ist die Kennung des oben erstellten Sounds)
