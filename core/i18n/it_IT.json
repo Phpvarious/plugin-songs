@@ -1,0 +1,36 @@
+{
+    "plugins\/songs\/desktop\/php\/songs.php": {
+        "401 - Accès non autorisé": "401 - Accesso non autorizzato",
+        "Gestion": "Gestione",
+        "Ajouter": "Aggiungi",
+        "Configuration": "Configurazione",
+        "Mes sons": "",
+        "Rechercher": "Ricercare",
+        "Sauvegarder": "Salva",
+        "Supprimer": "Rimuovere",
+        "Son": "",
+        "Nom du son": "",
+        "ID": "",
+        "Sons": "",
+        "Envoyer": "Invia"
+    },
+    "plugins\/songs\/desktop\/js\/songs.js": {
+        "Nom du sons ?": "",
+        "Envoyer": "Invia",
+        "Son ajoutée": "",
+        "Etês vous sur de vouloir supprimer ce son ?": ""
+    },
+    "plugins\/songs\/core\/ajax\/songs.ajax.php": {
+        "401 - Accès non autorisé": "401 - Accesso non autorizzato",
+        "Son inconnu : ": "",
+        "Son inconnu. Vérifiez l\\'ID": "",
+        "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "Nessun file trovato. Controlla l'impostazione PHP (limite dimensione post)",
+        "Le fichier est trop gros (maximum 50Mo)": "",
+        "Impossible de sauvegarder le son": "",
+        "Aucune méthode correspondante à : ": "Nessun metodo corrispondente a:"
+    },
+    "plugins\/songs\/core\/class\/songs.class.php": {
+        "Le nom ne peut etre vide": "Il nome non può essere vuoto",
+        "Le nom ne peut etre un nombre": ""
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "plugins\/songs\/desktop\/php\/songs.php": {
+        "401 - Accès non autorisé": "401 - Несанкционированный доступ",
+        "Gestion": "Управление",
+        "Ajouter": "Добавить",
+        "Configuration": "Конфигурация",
+        "Mes sons": "",
+        "Rechercher": "поиск",
+        "Sauvegarder": "Сохранить",
+        "Supprimer": "удаление",
+        "Son": "",
+        "Nom du son": "",
+        "ID": "Идентификатор",
+        "Sons": "",
+        "Envoyer": "Отправить"
+    },
+    "plugins\/songs\/desktop\/js\/songs.js": {
+        "Nom du sons ?": "",
+        "Envoyer": "Отправить",
+        "Son ajoutée": "",
+        "Etês vous sur de vouloir supprimer ce son ?": ""
+    },
+    "plugins\/songs\/core\/ajax\/songs.ajax.php": {
+        "401 - Accès non autorisé": "401 - Несанкционированный доступ",
+        "Son inconnu : ": "",
+        "Son inconnu. Vérifiez l\\'ID": "",
+        "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "",
+        "Le fichier est trop gros (maximum 50Mo)": "",
+        "Impossible de sauvegarder le son": "",
+        "Aucune méthode correspondante à : ": "Aucune methode correspondante à :"
+    },
+    "plugins\/songs\/core\/class\/songs.class.php": {
+        "Le nom ne peut etre vide": "",
+        "Le nom ne peut etre un nombre": ""
+    }
+}
