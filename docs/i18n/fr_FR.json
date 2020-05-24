@@ -1,0 +1,29 @@
+{
+    "changelog.md": {
+        "Changelog Sons": "Changelog Sons",
+        "IMPORTANT": "IMPORTANT",
+        "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte",
+        "16\/12\/2019": "16\/12\/2019",
+        "Interdiction de mettre un nombre en nom de son": "Interdiction de mettre un nombre en nom de son",
+        "16\/10\/2019": "16\/10\/2019",
+        "Correction de bugs": "Correction de bugs"
+    },
+    "index.md": {
+        "Plugin Sons": "Plugin Sons",
+        "Ce plugin permet d'intercepter certaine demandes de TTS (passant par le TTS jeedom et uniquement celui-ci) et de le remplacer par le son de votre choix": "Ce plugin permet d'intercepter certaine demandes de TTS (passant par le TTS jeedom et uniquement celui-ci) et de le remplacer par le son de votre choix",
+        "Configuration": "Configuration",
+        "Ce plugin ne necessite aucune configuration particulière": "Ce plugin ne necessite aucune configuration particulière",
+        "Ajout de son": "Ajout de son",
+        "Il vous suffit dans Plugins -> Multimedia -> Sons de cliquer sur ajouter puis": "Il vous suffit dans Plugins -> Multimedia -> Sons de cliquer sur ajouter puis",
+        "Nom du son": "Nom du son",
+        "nom du son pour le retrouver facilement": "nom du son pour le retrouver facilement",
+        "ID": "ID",
+        "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre": "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre",
+        "C'est cet identifiant qu'il faudra utiliser dans la demande TTS": "C'est cet identifiant qu'il faudra utiliser dans la demande TTS",
+        "Sons": "Sons",
+        "votre son à jouer (le fichier doit etre en mp3, 50mo max)": "votre son à jouer (le fichier doit etre en mp3, 50mo max)",
+        "Utilisation": "Utilisation",
+        "Une fois votre son ajouté, vous pouvez mettre dans le message TTS": "Une fois votre son ajouté, vous pouvez mettre dans le message TTS",
+        "(id étant l'identifiant du son créé plus haut)": "(id étant l'identifiant du son créé plus haut)"
+    }
+}
