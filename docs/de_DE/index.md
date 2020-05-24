@@ -12,7 +12,7 @@ Klicken Sie einfach unter Plugins -> Multimedia -> Sounds auf Hinzufügen :
 
 - Soundname : Soundname zum einfachen Abrufen
 - Identifikation : Tonkennung, es ist ratsam, hier nur Buchstaben oder Zahlen zu setzen. Diese Kennung sollte in der TTS-Anforderung verwendet werden
-- Klingt : Ihr Sound zum Abspielen (die Datei muss in MP3 sein, max. 50 Monate)
+- Klingt : Ihr Sound zum Abspielen (die Datei muss in MP3 sein, max. 50Mo)
 
 # Utilisation
 
