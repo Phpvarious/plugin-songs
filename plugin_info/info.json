@@ -1,7 +1,13 @@
 {
     "id": "songs",
     "name": "Sons",
-    "description": "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)",
+    "description": {
+        "fr_FR": "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)",
+        "en_US": "Plugin allowing to add MP3 to be played by TTS plugins (using TTS Jeedom)",
+        "es_ES": "Complemento que permite agregar MP3 para reproducirlo con complementos TTS (usando TTS Jeedom)",
+        "de_DE": "Plugin zum Hinzufügen von MP3 zur Wiedergabe durch TTS-Plugins (mit TTS Jeedom)",
+        "pt_PT": "Plugin que permite adicionar MP3 para ser tocado por plugins TTS (usando o TTS Jeedom)"
+    },
     "licence": "AGPL",
     "author": "Jeedom SAS",
     "require": "3.3.30",
@@ -11,6 +17,20 @@
     "maxDependancyInstallTime": 0,
     "changelog": "https:\/\/doc.jeedom.com\/#language#\/plugins\/multimedia\/songs\/changelog",
     "documentation": "https:\/\/doc.jeedom.com\/#language#\/plugins\/multimedia\/songs\/",
-   "language" : ["fr_FR","en_US","de_DE","sp_SP"],
-    "compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"]
+    "language": [
+        "fr_FR",
+        "en_US",
+        "es_ES",
+        "de_DE",
+        "pt_PT"
+    ],
+    "compatibility": [
+        "miniplus",
+        "smart",
+        "rpi",
+        "docker",
+        "diy",
+        "mobile",
+        "v4"
+    ]
 }
