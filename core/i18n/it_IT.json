@@ -32,5 +32,8 @@
     "plugins\/songs\/core\/class\/songs.class.php": {
         "Le nom ne peut etre vide": "Il nome non può essere vuoto",
         "Le nom ne peut etre un nombre": ""
+    },
+    "info.json": {
+        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": ""
     }
 }

@@ -21,9 +21,9 @@
         "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre": "identifiant du son, il est conseillé de ne mettre ici que des lettres ou des chiffre",
         "C'est cet identifiant qu'il faudra utiliser dans la demande TTS": "C'est cet identifiant qu'il faudra utiliser dans la demande TTS",
         "Sons": "Sons",
-        "votre son à jouer (le fichier doit etre en mp3, 50mo max)": "votre son à jouer (le fichier doit etre en mp3, 50mo max)",
+        "votre son à jouer (le fichier doit etre en mp3, 50mo max": "votre son à jouer (le fichier doit etre en mp3, 50mo max",
         "Utilisation": "Utilisation",
-        "Une fois votre son ajouter pour l'utiliser il faut dans le message TTS mettre": "Une fois votre son ajouter pour l'utiliser il faut dans le message TTS mettre",
-        "(id étant l'identifiant du son créer plus haut)": "(id étant l'identifiant du son créer plus haut)"
+        "Une fois votre son ajouté, vous pouvez mettre dans le message TTS": "Une fois votre son ajouté, vous pouvez mettre dans le message TTS",
+        "id étant l'identifiant du son créé plus haut": "id étant l'identifiant du son créé plus haut"
     }
 }
