@@ -3,10 +3,10 @@
     "name": "Sons",
     "description": {
         "fr_FR": "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).",
-        "en_US": "Plugin allowing to add MP3 to be played by TTS plugins (using TTS Jeedom)",
-        "es_ES": "Complemento que permite agregar MP3 para reproducirlo con complementos TTS (usando TTS Jeedom)",
-        "de_DE": "Plugin zum Hinzufügen von MP3 zur Wiedergabe durch TTS-Plugins (mit TTS Jeedom)",
-        "pt_PT": "Plugin que permite adicionar MP3 para ser tocado por plugins TTS (usando o TTS Jeedom)"
+        "en_US": "Plugin allowing to play sounds instead of text for all plugins using the TTS jeedom (and only through the TTS jeedom)",
+        "es_ES": "Complemento que permite reproducir sonidos en lugar de texto para todos los complementos que utilizan el jeedom TTS (y solo a través del jeedom TTS)",
+        "de_DE": "Plugin, mit dem Sounds anstelle von Text für alle Plugins abgespielt werden können, die das TTS Jeedom verwenden (und nur über das TTS Jeedom)",
+        "pt_PT": "Plug-in que permite tocar sons em vez de texto para todos os plug-ins usando o jeedom TTS (e apenas através do jeedom TTS)"
     },
     "licence": "AGPL",
     "author": "Jeedom SAS",

@@ -9,6 +9,7 @@
         "Sauvegarder": "Sauvegarder",
         "Supprimer": "Supprimer",
         "Son": "Son",
+        "Général": "Général",
         "Nom du son": "Nom du son",
         "ID": "ID",
         "Sons": "Sons",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Nom du sons ?",
+        "Configuration du plugin": "Configuration du plugin",
         "Envoyer": "Envoyer",
         "Son ajoutée": "Son ajoutée",
         "Etês vous sur de vouloir supprimer ce son ?": "Etês vous sur de vouloir supprimer ce son ?"
@@ -34,6 +36,6 @@
         "Le nom ne peut etre un nombre": "Le nom ne peut etre un nombre"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)"
+        "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).": "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom)."
     }
 }
