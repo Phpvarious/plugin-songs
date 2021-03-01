@@ -9,6 +9,7 @@
         "Sauvegarder": "Menyimpan",
         "Supprimer": "Menghapus",
         "Son": "",
+        "Général": "Umum",
         "Nom du son": "",
         "ID": "",
         "Sons": "",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "",
+        "Configuration du plugin": "Konfigurasi Plugin",
         "Envoyer": "Kirim",
         "Son ajoutée": "",
         "Etês vous sur de vouloir supprimer ce son ?": ""
@@ -34,6 +36,6 @@
         "Le nom ne peut etre un nombre": ""
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": ""
+        "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).": ""
     }
 }

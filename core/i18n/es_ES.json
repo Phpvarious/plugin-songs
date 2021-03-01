@@ -9,6 +9,7 @@
         "Sauvegarder": "Guardar",
         "Supprimer": "Borrar",
         "Son": "Su",
+        "Général": "Principal",
         "Nom du son": "Nombre del sonido",
         "ID": "Identificación",
         "Sons": "Suena",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Nombre de los sonidos?",
+        "Configuration du plugin": "Configuración del plugin",
         "Envoyer": "Enviar",
         "Son ajoutée": "Es añadido",
         "Etês vous sur de vouloir supprimer ce son ?": "¿Seguro que quieres eliminar este sonido?"
@@ -34,6 +36,6 @@
         "Le nom ne peut etre un nombre": "El nombre no puede ser un número"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Complemento que permite agregar MP3 para reproducirlo con complementos TTS (usando TTS Jeedom)"
+        "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).": "Complemento que permite reproducir sonidos en lugar de texto para todos los complementos que utilizan el jeedom TTS (y solo a través del jeedom TTS)"
     }
 }

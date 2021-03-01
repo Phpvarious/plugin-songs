@@ -34,6 +34,10 @@ $('#in_searchSong').off('keyup').keyup(function () {
   $('.eqLogicThumbnailContainer').packery();
 });
 
+ $('#bt_resetSearch').on('click', function() {
+   $('#in_searchSong').val('').keyup()
+ })
+
 $('.songAction[data-action=add]').off('click').on('click',function(){
   bootbox.prompt("{{Nom du sons ?}}", function (result) {
     if (result !== null) {
@@ -58,6 +62,10 @@ $('.songAction[data-action=add]').off('click').on('click',function(){
     }
   });
 });
+
+$('.eqLogicAction[data-action=gotoPluginConf]').on('click', function() {
+  $('#md_modal').dialog({title: "{{Configuration du plugin}}"}).load('index.php?v=d&p=plugin&ajax=1&id='+eqType).dialog('open')
+})
 
 jwerty.key('ctrl+s/⌘+s', function (e) {
   e.preventDefault();
@@ -97,7 +105,7 @@ $(".songDisplayCard").on('click', function () {
     $('#bt_uploadSong').fileupload('destroy');
     $('#bt_uploadSong').parent().html('<i class="fas fa-cloud-upload-alt"></i> {{Envoyer}}<input  id="bt_uploadSong" type="file" name="file" style="display: inline-block;">');
   } catch(error) {
-    
+
   }
   $('#bt_uploadSong').fileupload({
     replaceFileInput: false,

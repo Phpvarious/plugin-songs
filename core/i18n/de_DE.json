@@ -9,6 +9,7 @@
         "Sauvegarder": "Speichern",
         "Supprimer": "Löschen",
         "Son": "Sein",
+        "Général": "Allgemein",
         "Nom du son": "Soundname",
         "ID": "Identifikation",
         "Sons": "Klingt",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Name der Geräusche?",
+        "Configuration du plugin": "Plugin Konfiguration",
         "Envoyer": "Senden",
         "Son ajoutée": "Es ist hinzugefügt",
         "Etês vous sur de vouloir supprimer ce son ?": "Möchten Sie diesen Sound wirklich löschen?"
@@ -34,6 +36,6 @@
         "Le nom ne peut etre un nombre": "Name kann keine Nummer sein"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin zum Hinzufügen von MP3 zur Wiedergabe durch TTS-Plugins (mit TTS Jeedom)"
+        "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).": "Plugin, mit dem Sounds anstelle von Text für alle Plugins abgespielt werden können, die das TTS Jeedom verwenden (und nur über das TTS Jeedom)"
     }
 }
