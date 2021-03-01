@@ -32,10 +32,11 @@
         "Aucune méthode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Erreur sur la récuperation des données : ": "Erro na recuperação de dados:",
         "Le nom ne peut etre vide": "O nome não pode estar vazio",
         "Le nom ne peut etre un nombre": "O nome não pode ser um número"
     },
     "info.json": {
-        "Plugin permettant de jouer des sons à la place d'un texte pour tous les plugins utilisant le TTS jeedom (et uniquement en passant par le TTS jeedom).": "Plug-in que permite tocar sons em vez de texto para todos os plug-ins usando o jeedom TTS (e apenas através do jeedom TTS)"
+        "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plug-in que permite adicionar MP3 e ter voz do Google para textos a serem reproduzidos por plug-ins TTS (usando TTS Jeedom)"
     }
 }
