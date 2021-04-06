@@ -1,9 +1,11 @@
 {
     "changelog.md": {
         "Changelog Sons et TTS": "Changelog Sons et TTS",
-        "Changelog Sons": "Changelog Sons",
         "IMPORTANT": "IMPORTANT",
         "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte": "Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte",
+        "06\/04\/2021": "06\/04\/2021",
+        "[BETA] Possibilité d'utiliser le plugin pour du TTS (basé sur le service google, suite à la mise à jour du plugin cela se configure dans la cofniguration Jeedom": "[BETA] Possibilité d'utiliser le plugin pour du TTS (basé sur le service google, suite à la mise à jour du plugin cela se configure dans la cofniguration Jeedom",
+        "Attention limité à 2 nouveau TTS par jour": "Attention limité à 2 nouveau TTS par jour",
         "24\/11\/2020": "24\/11\/2020",
         "Ajout du tag \"Compatibilité V4": "Ajout du tag \"Compatibilité V4",
         "16\/12\/2019": "16\/12\/2019",
