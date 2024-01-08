@@ -8,12 +8,12 @@ This plugin does not require any particular configuration.
 
 # Adding sound
 
-Just in Plugins -> Multimedia -> Sounds click on add then :
+You just have to in Plugins → Multimedia → Sounds to click on **Add** then :
 
-- Sound name : sound name for easy retrieval
-- Id : sound identifier, it is advisable to put only letters or numbers here. This identifier should be used in the TTS request
-- Sounds : your sound to play (the file must be in mp3, 50mo max)
+- **Sound name** : sound name for easy retrieval.
+- **Id* : sound identifier, it is advisable to put only letters or numbers here. This identifier should be used in the TTS request.
+- **Sounds** : Send the sound to play (the file extension must be in ``mp3``, 50MB maximum).
 
 # Utilisation
 
-Once your sound is added, you can put in the TTS message #id# (id being the identifier of the sound created above)
+Once your sound is added, you can put in the TTS message ``#id#`` *(id being the identifier of the sound created previously)*.

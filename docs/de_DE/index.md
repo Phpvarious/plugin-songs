@@ -8,12 +8,12 @@ Dieses Plugin erfordert keine bestimmte Konfiguration.
 
 # Sound hinzufügen
 
-Klicken Sie einfach unter Plugins -> Multimedia -> Sounds auf Hinzufügen :
+Sie müssen nur in Plugins → Multimedia → Sounds klicken **Einfügen** dann :
 
-- Soundname : Soundname zum einfachen Abrufen
-- Identifikation : Tonkennung, es ist ratsam, hier nur Buchstaben oder Zahlen zu setzen. Diese Kennung sollte in der TTS-Anforderung verwendet werden
-- Klingt : Ihr Sound zum Abspielen (die Datei muss in MP3 sein, max. 50Mo)
+- **Soundname** : Soundname zum einfachen Abrufen.
+- **Identifikation* : Tonkennung, es ist ratsam, hier nur Buchstaben oder Zahlen zu setzen. Diese Kennung sollte in der TTS-Anforderung verwendet werden.
+- **Klingt** : Senden Sie den Sound zur Wiedergabe (die Dateierweiterung muss in sein ``mp3``, Maximal 50 MB).
 
 # Utilisation
 
-Sobald Ihr Sound hinzugefügt wurde, können Sie die TTS-Nachricht eingeben #id# (id ist die Kennung des oben erstellten Sounds)
+Sobald Ihr Sound hinzugefügt wurde, können Sie die TTS-Nachricht eingeben ``#id#`` *(id ist die Kennung des zuvor erstellten Sounds)*.

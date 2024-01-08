@@ -9,6 +9,7 @@
         "Sauvegarder": "Speichern",
         "Supprimer": "Löschen",
         "Son": "Sein",
+        "Général": "Allgemein",
         "Nom du son": "Soundname",
         "ID": "Identifikation",
         "Sons": "Klingt",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Name der Geräusche?",
+        "Configuration du plugin": "Plugin Konfiguration",
         "Envoyer": "Senden",
         "Son ajoutée": "Es ist hinzugefügt",
         "Etês vous sur de vouloir supprimer ce son ?": "Möchten Sie diesen Sound wirklich löschen?"
@@ -30,10 +32,11 @@
         "Aucune méthode correspondante à : ": "Keine Methode entsprechend:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Erreur sur la récuperation des données : ": "Fehler bei der Datenwiederherstellung:",
         "Le nom ne peut etre vide": "Der Name darf nicht leer sein",
         "Le nom ne peut etre un nombre": "Name kann keine Nummer sein"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin zum Hinzufügen von MP3 zur Wiedergabe durch TTS-Plugins (mit TTS Jeedom)"
+        "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin zum Hinzufügen von MP3 und zur Verwendung von Google Voice für Texte, die von TTS-Plugins abgespielt werden sollen (mit TTS Jeedom)"
     }
 }

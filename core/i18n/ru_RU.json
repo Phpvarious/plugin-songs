@@ -4,36 +4,39 @@
         "Gestion": "Управление",
         "Ajouter": "Добавить",
         "Configuration": "Конфигурация",
-        "Mes sons": "",
+        "Mes sons": "Mes sons",
         "Rechercher": "поиск",
         "Sauvegarder": "Сохранить",
         "Supprimer": "удаление",
-        "Son": "",
-        "Nom du son": "",
+        "Son": "Son",
+        "Général": "Главная",
+        "Nom du son": "Nom du son",
         "ID": "Идентификатор",
-        "Sons": "",
+        "Sons": "Sons",
         "Envoyer": "Отправить"
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
-        "Nom du sons ?": "",
+        "Nom du sons ?": "Nom du sons ?",
+        "Configuration du plugin": "Конфигурация плагина",
         "Envoyer": "Отправить",
-        "Son ajoutée": "",
-        "Etês vous sur de vouloir supprimer ce son ?": ""
+        "Son ajoutée": "Son ajoutée",
+        "Etês vous sur de vouloir supprimer ce son ?": "Etês vous sur de vouloir supprimer ce son ?"
     },
     "plugins\/songs\/core\/ajax\/songs.ajax.php": {
         "401 - Accès non autorisé": "401 - Несанкционированный доступ",
-        "Son inconnu : ": "",
-        "Son inconnu. Vérifiez l\\'ID": "",
-        "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "",
-        "Le fichier est trop gros (maximum 50Mo)": "",
-        "Impossible de sauvegarder le son": "",
+        "Son inconnu : ": "Son inconnu :",
+        "Son inconnu. Vérifiez l\\'ID": "Son inconnu. Vérifiez l\\'ID",
+        "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)": "Aucun fichier trouvé. Vérifiez le paramètre PHP (post size limit)",
+        "Le fichier est trop gros (maximum 50Mo)": "Le fichier est trop gros (maximum 50Mo)",
+        "Impossible de sauvegarder le son": "Impossible de sauvegarder le son",
         "Aucune méthode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
-        "Le nom ne peut etre vide": "",
-        "Le nom ne peut etre un nombre": ""
+        "Erreur sur la récuperation des données : ": "Erreur sur la récuperation des données :",
+        "Le nom ne peut etre vide": "Le nom ne peut etre vide",
+        "Le nom ne peut etre un nombre": "Le nom ne peut etre un nombre"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": ""
+        "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)"
     }
 }

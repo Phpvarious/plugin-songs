@@ -9,6 +9,7 @@
         "Sauvegarder": "Save",
         "Supprimer": "Delete",
         "Son": "His",
+        "Général": "Main",
         "Nom du son": "Sound name",
         "ID": "Id",
         "Sons": "Sounds",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Name of the sounds?",
+        "Configuration du plugin": "Plugin configuration",
         "Envoyer": "Send",
         "Son ajoutée": "Its added",
         "Etês vous sur de vouloir supprimer ce son ?": "Are you sure you want to delete this sound?"
@@ -30,10 +32,11 @@
         "Aucune méthode correspondante à : ": "No method corresponding to:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Erreur sur la récuperation des données : ": "Error on data recovery:",
         "Le nom ne peut etre vide": "Name cannot be empty",
         "Le nom ne peut etre un nombre": "Name cannot be a number"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin allowing to add MP3 to be played by TTS plugins (using TTS Jeedom)"
+        "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Plugin allowing to add MP3 and to have Google voice for texts to be played by TTS plugins (using TTS Jeedom)"
     }
 }

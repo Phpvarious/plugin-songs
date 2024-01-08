@@ -9,6 +9,7 @@
         "Sauvegarder": "Guardar",
         "Supprimer": "Borrar",
         "Son": "Su",
+        "Général": "Principal",
         "Nom du son": "Nombre del sonido",
         "ID": "Identificación",
         "Sons": "Suena",
@@ -16,6 +17,7 @@
     },
     "plugins\/songs\/desktop\/js\/songs.js": {
         "Nom du sons ?": "Nombre de los sonidos?",
+        "Configuration du plugin": "Configuración del plugin",
         "Envoyer": "Enviar",
         "Son ajoutée": "Es añadido",
         "Etês vous sur de vouloir supprimer ce son ?": "¿Seguro que quieres eliminar este sonido?"
@@ -30,10 +32,11 @@
         "Aucune méthode correspondante à : ": "Ningún método correspondiente a:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Erreur sur la récuperation des données : ": "Error en la recuperación de datos:",
         "Le nom ne peut etre vide": "El nombre no puede estar vacío",
         "Le nom ne peut etre un nombre": "El nombre no puede ser un número"
     },
     "info.json": {
-        "Plugin permettant d'ajouter des MP3 pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Complemento que permite agregar MP3 para reproducirlo con complementos TTS (usando TTS Jeedom)"
+        "Plugin permettant d'ajouter des MP3 et d'avoir la voix Google pour les textes pour etre jouer par des plugins TTS (utilisant le TTS Jeedom)": "Complemento que permite agregar MP3 y tener Google Voice para que los textos sean reproducidos por complementos TTS (usando TTS Jeedom)"
     }
 }
