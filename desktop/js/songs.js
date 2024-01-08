@@ -56,14 +56,14 @@ $('.songAction[data-action=add]').off('click').on('click',function(){
           }
           modifyWithoutSave = false;
           url += 'id=' + _data.id + '&saveSuccessFull=1';
-          loadPage(url);
+          jeedomUtils.loadPage(url);
         }
       });
     }
   });
 });
 
-$('.eqLogicAction[data-action=gotoPluginConf]').on('click', function() {
+$('.songAction[data-action=gotoPluginConf]').on('click', function() {
   $('#md_modal').dialog({title: "{{Configuration du plugin}}"}).load('index.php?v=d&p=plugin&ajax=1&id='+eqType).dialog('open')
 })
 
@@ -123,7 +123,7 @@ $(".songDisplayCard").on('click', function () {
       $('body .songAttr').value('');
       $('body').setValues(data, '.songAttr');
       $.hideLoading();
-      addOrUpdateUrl('id',data.id);
+      jeedomUtils.addOrUpdateUrl('id',data.id);
       modifyWithoutSave = false;
     }
   });
@@ -147,7 +147,7 @@ $('.songAction[data-action=remove]').on('click', function () {
           }
           modifyWithoutSave = false;
           url += 'removeSuccessFull=1';
-          loadPage(url);
+          jeedomUtils.loadPage(url);
         }
       });
     }
@@ -173,7 +173,7 @@ $('.songAction[data-action=save]').on('click', function () {
       if (document.location.toString().match('#')) {
         url += '#' + document.location.toString().split('#')[1];
       }
-      loadPage(url);
+      jeedomUtils.loadPage(url);
       modifyWithoutSave = false;
     }
   });
