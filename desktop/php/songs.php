@@ -15,7 +15,7 @@ sendVarToJS('eqType', $plugin->getId());
 				<br>
 				<span>{{Ajouter}}</span>
 			</div>
-			<div class="cursor eqLogicAction logoSecondary" data-action="gotoPluginConf">
+			<div class="cursor songAction logoSecondary" data-action="gotoPluginConf">
 				<i class="fas fa-wrench"></i>
 				<br>
 				<span>{{Configuration}}</span>
