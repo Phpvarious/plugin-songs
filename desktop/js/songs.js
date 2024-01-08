@@ -67,17 +67,11 @@ $('.eqLogicAction[data-action=gotoPluginConf]').on('click', function() {
   $('#md_modal').dialog({title: "{{Configuration du plugin}}"}).load('index.php?v=d&p=plugin&ajax=1&id='+eqType).dialog('open')
 })
 
-jwerty.key('ctrl+s/⌘+s', function (e) {
-  e.preventDefault();
-  $('songAction[data-action=save]').click();
-});
-
 $('.songAction[data-action=returnToThumbnailDisplay]').removeAttr('href').off('click').on('click', function (event) {
   $('.song').hide();
   $('.songThumbnailDisplay').show();
   $('.eqLogicThumbnailContainer').packery();
 });
-
 
 var url = document.location.toString();
 if (url.match('#')) {
