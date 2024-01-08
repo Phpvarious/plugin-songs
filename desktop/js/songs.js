@@ -63,7 +63,7 @@ $('.songAction[data-action=add]').off('click').on('click',function(){
   });
 });
 
-$('.eqLogicAction[data-action=gotoPluginConf]').on('click', function() {
+$('.songAction[data-action=gotoPluginConf]').on('click', function() {
   $('#md_modal').dialog({title: "{{Configuration du plugin}}"}).load('index.php?v=d&p=plugin&ajax=1&id='+eqType).dialog('open')
 })
 
