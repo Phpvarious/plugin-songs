@@ -4,6 +4,10 @@
 >
 >Zur Erinnerung: Wenn keine Informationen zum Update vorhanden sind, bedeutet dies, dass es sich nur um die Aktualisierung von Dokumentation, Übersetzung oder Text handelt
 
+# 01.08.2024
+
+- Vorbereitung auf Jeedom 4.4
+
 # 04/06/2021
 
 - [BETA] Möglichkeit der Verwendung des Plugins für TTS (basierend auf dem Google-Dienst, nach der Aktualisierung des Plugins, das in der Jeedom-Konfiguration konfiguriert ist). Die Aufmerksamkeit ist auf 2 neue TTS pro Tag begrenzt.
