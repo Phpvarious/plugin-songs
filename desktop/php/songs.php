@@ -15,11 +15,6 @@ sendVarToJS('eqType', $plugin->getId());
 				<br>
 				<span>{{Ajouter}}</span>
 			</div>
-			<div class="cursor songAction logoSecondary" data-action="gotoPluginConf">
-				<i class="fas fa-wrench"></i>
-				<br>
-				<span>{{Configuration}}</span>
-			</div>
 		</div>
 		<legend><i class='fas fa-music'></i> {{Mes sons}}</legend>
 		<div class="input-group" style="margin:5px;">
