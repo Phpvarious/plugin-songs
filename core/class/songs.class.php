@@ -26,6 +26,15 @@ class songs extends eqLogic {
   /*     * ***********************Methode static*************************** */
   
   public static function tts($_filename,$_text) {
+    if (substr($_text, -1) == '#' && substr($_text, 0, 1) == '#') {
+      log::add('tts', 'debug', __('Tag detécté dans le tts', __FILE__));
+      $song = songs_song::byLogicalId(strtolower(str_replace('#', '', init('text'))));
+      if (is_object($song) && file_exists($song->getPath())) {
+        log::add('tts', 'debug', __('Son trouvé path :', __FILE__) . ' ' . $song->getPath());
+        copy($song->getPath(),$_filename);
+        return;
+      }
+    }
     try {
       $url = config::byKey('service::cloud::url').'/user/';
       $url .= sha512(mb_strtolower(config::byKey('market::username')).':'.config::byKey('market::password'));
