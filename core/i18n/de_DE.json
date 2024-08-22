@@ -3,7 +3,6 @@
         "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
         "Gestion": "Verwaltung",
         "Ajouter": "Hinzufügen",
-        "Configuration": "Konfiguration",
         "Mes sons": "Meine Geräusche",
         "Rechercher": "Suchen nach",
         "Sauvegarder": "Speichern",
@@ -32,6 +31,8 @@
         "Aucune méthode correspondante à : ": "Keine Methode entsprechend:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Tag detécté dans le tts": "Tag in TTS erkannt",
+        "Son trouvé path :": "Sein gefundener Pfad:",
         "Erreur sur la récuperation des données : ": "Fehler bei der Datenwiederherstellung:",
         "Le nom ne peut etre vide": "Der Name darf nicht leer sein",
         "Le nom ne peut etre un nombre": "Name kann keine Nummer sein"

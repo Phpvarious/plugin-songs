@@ -3,7 +3,6 @@
         "401 - Accès non autorisé": "401 - Unauthorized access",
         "Gestion": "Management",
         "Ajouter": "Add",
-        "Configuration": "Setup",
         "Mes sons": "My sounds",
         "Rechercher": "Search",
         "Sauvegarder": "Save",
@@ -32,6 +31,8 @@
         "Aucune méthode correspondante à : ": "No method corresponding to:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Tag detécté dans le tts": "Tag detected in tts",
+        "Son trouvé path :": "His found path:",
         "Erreur sur la récuperation des données : ": "Error on data recovery:",
         "Le nom ne peut etre vide": "Name cannot be empty",
         "Le nom ne peut etre un nombre": "Name cannot be a number"

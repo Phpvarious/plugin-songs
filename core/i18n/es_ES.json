@@ -3,7 +3,6 @@
         "401 - Accès non autorisé": "401 - Acceso no autorizado",
         "Gestion": "Gestión",
         "Ajouter": "Añadir",
-        "Configuration": "Configuración",
         "Mes sons": "Mis sonidos",
         "Rechercher": "Buscar",
         "Sauvegarder": "Guardar",
@@ -32,6 +31,8 @@
         "Aucune méthode correspondante à : ": "Ningún método correspondiente a:"
     },
     "plugins\/songs\/core\/class\/songs.class.php": {
+        "Tag detécté dans le tts": "Etiqueta detectada en tts",
+        "Son trouvé path :": "Su camino encontrado:",
         "Erreur sur la récuperation des données : ": "Error en la recuperación de datos:",
         "Le nom ne peut etre vide": "El nombre no puede estar vacío",
         "Le nom ne peut etre un nombre": "El nombre no puede ser un número"
