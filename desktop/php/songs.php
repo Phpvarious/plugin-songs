@@ -27,7 +27,7 @@ sendVarToJS('eqType', $plugin->getId());
 			<?php
 			foreach (songs_song::all() as $song) {
 				echo '<div class="songDisplayCard cursor" data-song_id="' . $song->getId() . '">';
-				echo '<img src="' . $eqLogic->getImage() . '"/>';
+				echo '<img src="' . $plugin->getPathImgIcon() . '"/>';
 				echo '<br>';
 				echo '<span class="name">' . $song->getName() . '</span>';
 				echo '</div>';
